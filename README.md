@@ -2,7 +2,7 @@
 
 [Open DroneLog](https://github.com/arpanghosh8453/open-dronelog) (AGPL-3.0) — a self-hosted drone flight-log analyzer and logbook: import DJI, Litchi, Airdata and other logs, see flights on a map with telemetry charts, battery health, tags and stats. Deploy it on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/o7u1UO)
 
 ## What this template runs
 
